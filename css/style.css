@@ -1,0 +1,29 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 115%;
+}
+header{
+  background-color: aqua;
+}
+nav{
+  background-color: white;
+}
+main{
+  background-color: azure;
+  font-size: medium;
+}
+footer{
+  background-color: white;
+}
+li{
+  display: inline-block;
+  width: 100px;
+}
+h1{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+}
+p{
+  line-height: 70px;
+}
